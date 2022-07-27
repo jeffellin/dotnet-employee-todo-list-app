@@ -1,0 +1,5 @@
+site_name: 'dotnet todos app'
+
+
+plugins:
+  - techdocs-core
